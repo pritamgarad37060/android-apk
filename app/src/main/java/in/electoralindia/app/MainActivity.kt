@@ -1,4 +1,4 @@
-package in.electoralindia.app
+package `in`.electoralindia.app
 
 import android.annotation.SuppressLint
 import android.os.Bundle
