@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
         setContentView(webView)
 
         if (savedInstanceState == null) {
-            webView.loadUrl("https://indianelection.netlify.app/")
+            webView.loadUrl("https://electrolindia.netlify.app/")
         } else {
             webView.restoreState(savedInstanceState)
         }
